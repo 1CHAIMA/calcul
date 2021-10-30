@@ -1,0 +1,16 @@
+body{
+    background: rgb(155, 155, 235);
+    text-align: center;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+span{
+    background: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+#Check{ 
+  margin-left: 10px;
+}
